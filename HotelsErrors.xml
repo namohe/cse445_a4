@@ -111,7 +111,7 @@
     </Address>
   </Hotel>
   
-  <Hotel NearestAirport="Sky Harbor">
+  <Hotel NearestAirport="Portland International Jetport">>
     <Name>The Colony Hotel</Name>
     <Phone>207-967-3331</Phone>
     <Address>
@@ -124,3 +124,4 @@
   </Hotel>
 
 </Hotel>
+
