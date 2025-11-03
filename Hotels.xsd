@@ -1,5 +1,5 @@
-<schema xmlns="http://www.w3.org/2001/XMLSchema">
-
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
   <xsd:element name="Hotels" type="HotelsType"/>
 
   <xsd:complexType name="HotelsType">
@@ -33,3 +33,4 @@
 
 
 </xsd:schema>
+
