@@ -1,0 +1,126 @@
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="Hotels.xsd">
+
+  <Hotel Rating="4.2" NearestAirport="Sky Harbor International Airport">
+    <Name>Moxy Phoenix Tempe/ASU Area</Name>
+    <Phone>480-968-3451</Phone>
+    <Address>
+      <Number>1333</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+    <Hotel Rating="4.2" NearestAirport="Sky Harbor International Airport">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E. 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3" NearestAirport="Sky Harbor International Airport">
+    <Name>Hyatt Place Tempe / Phoenix / University</Name>
+    <Phone>480-207-1578</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1" NearestAirport="Sky Harbor International Airport">
+    <Name>La Quinta Inn and Suites by Wyndham Tempe University / Phoenix</Name>
+    <Phone>480-774-2500</Phone>
+    <Phone>800-466-1589</Phone>
+    <Address>
+      <Number>1375</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+
+  </Hotel>
+    <Hotel NearestAirport="Sky Harbor International Airport">
+    <Name>Embassy Suites by Hilton Seattle Downtown Pioneer Square</Name>
+    <Phone>206-859-4400</Phone>
+    <Address>
+      <Number>255</Number>
+      <Street>S King St</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98104</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3" NearestAirport="Seattle Tacoma International Airport">
+    <Name>Hyatt Place Tempe / Phoenix / University</Name>
+    <Phone>480-207-1578</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel NearestAirport="Seattle Tacoma International Airport">
+    <Name>The Westin Seattle</Name>
+    <Phone>206-728-1000</Phone>
+    <Address>
+      <Number>1900</Number>
+      <Street>5th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+
+    <Hotel Rating="4.4" NearestAirport="Portland International Jetport">
+    <Name>Portland Harbor Hotel</Name>
+    <Phone>207-775-9090</Phone>
+    <Phone>207-871-1234</Phone>
+    <Address>
+      <Number>468</Number>
+      <Street>Fore St</Street>
+      <City>Portland</City>
+      <State>ME</State>
+      <Zip>04101</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3" NearestAirport="Portland International Jetport">
+    <Name>Black Bear Inn, Ascend Hotel Collection</Name>
+    <Phone>207-866-7120</Phone>
+    <Address>
+      <Number>4</Number>
+      <Street>Godfrey Dr</Street>
+      <City>Orono</City>
+      <State>ME</State>
+      <Zip>04473</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel NearestAirport="Sky Harbor">
+    <Name>The Colony Hotel</Name>
+    <Phone>207-967-3331</Phone>
+    <Address>
+      <Number>140</Number>
+      <Street>Ocean Ave</Street>
+      <City>Kennebunkport</City>
+      <State>ME</State>
+      <Zip>04046</Zip>
+    </Address>
+  </Hotel>
+
