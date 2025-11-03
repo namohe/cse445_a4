@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
 
   <xsd:element name="Hotels" type="HotelsType"/>
 
@@ -30,5 +30,6 @@
       <xsd:pattern value="\d{3}-\d{3}-\d{4}"/>
     </xsd:restriction>
   </xsd:simpleType>
+
 
 </xsd:schema>
